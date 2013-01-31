@@ -1,0 +1,8 @@
+= License
+
+== What is License?
+It is a license for use in software development and its distribution.  It was created especially combinations of zlib and BSD 3 licenses.
+
+
+== Sources
+The source for the creation of this license is Open Source Initiative website about licences, [[http://opensource.org/licenses/]].
