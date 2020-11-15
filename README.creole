@@ -19,7 +19,7 @@ In this repo you can find these licenses:
 * MIT
 * Unlicense
 * zlib
-* unknown license, combination of zlib and BSD 3.
+* custom license, combination of zlib and BSD 3.
 
 === Apache 2.0
 
